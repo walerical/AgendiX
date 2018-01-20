@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="textSize">20dp</dimen>
+    <dimen name="paddingTop">55dp</dimen>
+    <dimen name="h_paddingTop">35dp</dimen>
+    <dimen name="layout_height_resume">200dp</dimen>
+    <dimen name="layout_height_resume_image">150dp</dimen>
+    <dimen name="layout_height_resume_text">30dp</dimen>
+    <dimen name="h_contact_fragment">300dp</dimen>
+    <dimen name="h_reminder_fragment">300dp</dimen>
+    <dimen name="h_contact_fragment_title">300dp</dimen>
+    <dimen name="h_reminder_fragment_title">300dp</dimen>
+
+
+</resources>
