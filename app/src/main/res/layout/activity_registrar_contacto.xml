@@ -1,5 +1,5 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/ScrollView01"
+
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
@@ -78,7 +78,6 @@
                         android:maxLines="1" />
                 </android.support.design.widget.TextInputLayout>
             </RelativeLayout>
-
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -295,8 +294,6 @@
                         android:maxLines="3" />
                 </android.support.design.widget.TextInputLayout>
             </RelativeLayout>
-
-
         </LinearLayout>
     </android.support.design.widget.CoordinatorLayout>
 </ScrollView>
